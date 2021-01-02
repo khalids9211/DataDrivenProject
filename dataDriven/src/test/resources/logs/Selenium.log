@@ -1,0 +1,567 @@
+02:24:07,773 DEBUG devpinoyLogger:69 - config file is loaded.
+02:24:14,870 DEBUG devpinoyLogger:97 - Edge is launched.
+02:24:49,793 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+02:24:53,581 DEBUG devpinoyLogger:171 - Test execution has been completed.
+02:26:00,880 DEBUG devpinoyLogger:69 - config file is loaded.
+02:26:05,787 DEBUG devpinoyLogger:97 - Edge is launched.
+02:26:28,526 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+02:26:32,055 DEBUG devpinoyLogger:171 - Test execution has been completed.
+02:39:45,755 DEBUG devpinoyLogger:69 - config file is loaded.
+02:39:51,132 DEBUG devpinoyLogger:97 - Edge is launched.
+02:39:54,992 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+02:39:59,023 DEBUG devpinoyLogger:171 - Test execution has been completed.
+02:44:24,955 DEBUG devpinoyLogger:69 - config file is loaded.
+02:44:30,699 DEBUG devpinoyLogger:97 - Edge is launched.
+02:44:34,707 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+02:44:39,039 DEBUG devpinoyLogger:171 - Test execution has been completed.
+02:47:44,484 DEBUG devpinoyLogger:69 - config file is loaded.
+02:47:49,434 DEBUG devpinoyLogger:97 - Edge is launched.
+02:47:53,282 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+02:47:55,511 DEBUG devpinoyLogger:29 - Inside login Test.
+02:47:59,793 DEBUG devpinoyLogger:37 - loging test executed.
+02:47:59,838 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+02:47:59,840 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+02:47:59,842 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02:47:59,843 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02:47:59,844 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02:48:00,577 DEBUG devpinoyLogger:13 - inside invite user test.
+02:48:07,053 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+02:48:07,054 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+02:48:07,055 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02:48:07,056 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02:48:07,057 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02:48:07,111 DEBUG devpinoyLogger:13 - inside invite user test.
+02:48:08,597 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+02:48:08,598 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+02:48:08,599 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02:48:08,599 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02:48:08,599 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02:48:08,650 DEBUG devpinoyLogger:13 - inside invite user test.
+02:48:10,114 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+02:48:10,115 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+02:48:10,115 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02:48:10,116 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02:48:10,116 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02:48:11,664 DEBUG devpinoyLogger:171 - Test execution has been completed.
+02:50:33,050 DEBUG devpinoyLogger:69 - config file is loaded.
+02:50:37,677 DEBUG devpinoyLogger:97 - Edge is launched.
+02:50:42,349 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+02:50:45,920 DEBUG devpinoyLogger:171 - Test execution has been completed.
+02:59:05,225 DEBUG devpinoyLogger:69 - config file is loaded.
+02:59:10,202 DEBUG devpinoyLogger:97 - Edge is launched.
+02:59:16,623 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+02:59:19,511 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+02:59:19,512 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+02:59:19,514 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02:59:19,516 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02:59:19,516 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02:59:20,246 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+02:59:20,246 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+02:59:20,247 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+02:59:20,247 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+02:59:20,247 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+02:59:21,770 DEBUG devpinoyLogger:171 - Test execution has been completed.
+03:09:32,448 DEBUG devpinoyLogger:69 - config file is loaded.
+03:09:37,434 DEBUG devpinoyLogger:97 - Edge is launched.
+03:09:42,480 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+03:09:45,008 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:09:45,011 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:09:45,013 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:09:45,014 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:09:45,015 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:09:45,644 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:09:45,645 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:09:45,645 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:09:45,646 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:09:45,646 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:09:47,006 DEBUG devpinoyLogger:171 - Test execution has been completed.
+03:11:57,227 DEBUG devpinoyLogger:69 - config file is loaded.
+03:12:02,119 DEBUG devpinoyLogger:97 - Edge is launched.
+03:12:06,394 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+03:12:08,580 DEBUG devpinoyLogger:29 - Inside login Test.
+03:12:13,378 DEBUG devpinoyLogger:37 - loging test executed.
+03:12:13,413 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:12:13,414 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:12:13,416 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:12:13,417 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:12:13,417 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:12:13,808 DEBUG devpinoyLogger:15 - inside invite user test.
+03:12:20,594 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:12:20,595 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:12:20,596 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:12:20,596 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:12:20,597 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:12:20,670 DEBUG devpinoyLogger:15 - inside invite user test.
+03:12:22,153 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:12:22,153 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:12:22,154 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:12:22,154 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:12:22,154 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:12:22,197 DEBUG devpinoyLogger:15 - inside invite user test.
+03:12:23,606 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:12:23,607 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:12:23,607 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:12:23,608 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:12:23,608 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:12:25,859 DEBUG devpinoyLogger:171 - Test execution has been completed.
+03:13:06,357 DEBUG devpinoyLogger:69 - config file is loaded.
+03:13:11,088 DEBUG devpinoyLogger:97 - Edge is launched.
+03:13:15,440 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+03:13:17,952 DEBUG devpinoyLogger:29 - Inside login Test.
+03:13:22,218 DEBUG devpinoyLogger:37 - loging test executed.
+03:13:22,252 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:13:22,254 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:13:22,256 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:13:22,258 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:13:22,258 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:13:22,640 DEBUG devpinoyLogger:15 - inside invite user test.
+03:13:29,321 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:13:29,322 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:13:29,322 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:13:29,323 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:13:29,323 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:13:29,374 DEBUG devpinoyLogger:15 - inside invite user test.
+03:13:30,793 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:13:30,794 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:13:30,794 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:13:30,795 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:13:30,795 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:13:30,837 DEBUG devpinoyLogger:15 - inside invite user test.
+03:13:32,198 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:13:32,198 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:13:32,199 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:13:32,199 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:13:32,199 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:13:33,540 DEBUG devpinoyLogger:171 - Test execution has been completed.
+03:17:09,419 DEBUG devpinoyLogger:69 - config file is loaded.
+03:17:14,425 DEBUG devpinoyLogger:97 - Edge is launched.
+03:17:18,393 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+03:17:20,591 DEBUG devpinoyLogger:29 - Inside login Test.
+03:17:25,304 DEBUG devpinoyLogger:37 - loging test executed.
+03:17:25,337 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:17:25,339 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:17:25,341 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:17:25,342 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:17:25,342 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:17:25,734 DEBUG devpinoyLogger:15 - inside invite user test.
+03:17:32,489 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:17:32,490 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:17:32,491 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:17:32,491 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:17:32,492 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:17:32,556 DEBUG devpinoyLogger:15 - inside invite user test.
+03:17:39,453 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:17:39,454 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:17:39,454 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:17:39,455 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:17:39,455 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:17:39,495 DEBUG devpinoyLogger:15 - inside invite user test.
+03:17:45,809 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+03:17:45,810 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+03:17:45,810 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+03:17:45,811 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+03:17:45,811 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+03:17:47,159 DEBUG devpinoyLogger:171 - Test execution has been completed.
+05:51:06,456 DEBUG devpinoyLogger:69 - config file is loaded.
+05:51:11,676 DEBUG devpinoyLogger:97 - Edge is launched.
+05:51:19,600 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+05:51:21,818 DEBUG devpinoyLogger:29 - Inside login Test.
+05:51:29,682 DEBUG devpinoyLogger:37 - loging test executed.
+05:51:29,743 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+05:51:29,746 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+05:51:29,750 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+05:51:29,752 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+05:51:29,753 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+05:51:30,422 DEBUG devpinoyLogger:15 - inside invite user test.
+05:51:36,961 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+05:51:36,962 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+05:51:36,963 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+05:51:36,963 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+05:51:36,964 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+05:51:37,051 DEBUG devpinoyLogger:15 - inside invite user test.
+05:51:38,543 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+05:51:38,543 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+05:51:38,544 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+05:51:38,544 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+05:51:38,545 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+05:51:38,582 DEBUG devpinoyLogger:15 - inside invite user test.
+05:51:40,034 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+05:51:40,034 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+05:51:40,035 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+05:51:40,035 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+05:51:40,035 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+05:51:41,135 DEBUG devpinoyLogger:171 - Test execution has been completed.
+06:11:24,891 DEBUG devpinoyLogger:69 - config file is loaded.
+06:11:29,368 DEBUG devpinoyLogger:97 - Edge is launched.
+06:11:34,617 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+06:20:45,537 DEBUG devpinoyLogger:69 - config file is loaded.
+06:20:50,143 DEBUG devpinoyLogger:97 - Edge is launched.
+06:20:58,533 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+06:23:32,442 DEBUG devpinoyLogger:69 - config file is loaded.
+06:23:37,046 DEBUG devpinoyLogger:97 - Edge is launched.
+06:23:41,813 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+06:23:44,052 DEBUG devpinoyLogger:30 - Inside login Test.
+06:23:48,431 DEBUG devpinoyLogger:38 - loging test executed.
+06:23:48,460 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+06:23:48,462 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+06:23:48,463 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+06:23:48,464 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+06:23:48,465 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+06:23:48,770 DEBUG devpinoyLogger:17 - inside invite user test.
+06:23:55,489 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+06:23:55,491 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+06:23:55,493 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+06:23:55,494 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+06:23:55,495 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+06:23:55,609 DEBUG devpinoyLogger:17 - inside invite user test.
+06:23:57,161 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+06:23:57,162 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+06:23:57,162 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+06:23:57,163 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+06:23:57,163 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+06:23:57,201 DEBUG devpinoyLogger:17 - inside invite user test.
+06:23:59,017 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+06:23:59,018 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+06:23:59,019 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+06:23:59,019 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+06:23:59,019 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+06:24:00,010 DEBUG devpinoyLogger:171 - Test execution has been completed.
+18:16:18,028 DEBUG devpinoyLogger:69 - config file is loaded.
+18:16:24,518 DEBUG devpinoyLogger:97 - Edge is launched.
+18:17:02,013 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+18:17:04,267 DEBUG devpinoyLogger:30 - Inside login Test.
+18:17:18,823 DEBUG devpinoyLogger:38 - loging test executed.
+18:17:18,853 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:17:18,854 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:17:18,855 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:17:18,856 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:17:18,857 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:17:19,218 DEBUG devpinoyLogger:17 - inside invite user test.
+18:17:25,894 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:17:25,895 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:17:25,897 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:17:25,899 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:17:25,902 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:17:26,082 DEBUG devpinoyLogger:17 - inside invite user test.
+18:17:27,581 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:17:27,582 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:17:27,582 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:17:27,583 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:17:27,583 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:17:27,610 DEBUG devpinoyLogger:17 - inside invite user test.
+18:17:29,014 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:17:29,015 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:17:29,015 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:17:29,016 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:17:29,016 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:17:30,202 DEBUG devpinoyLogger:171 - Test execution has been completed.
+18:19:40,174 DEBUG devpinoyLogger:69 - config file is loaded.
+18:19:44,812 DEBUG devpinoyLogger:97 - Edge is launched.
+18:20:00,575 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+18:20:02,798 DEBUG devpinoyLogger:30 - Inside login Test.
+18:20:11,234 DEBUG devpinoyLogger:38 - loging test executed.
+18:20:11,264 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:20:11,265 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:20:11,267 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:20:11,267 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:20:11,268 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:20:11,625 DEBUG devpinoyLogger:17 - inside invite user test.
+18:20:18,610 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:20:18,612 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:20:18,615 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:20:18,617 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:20:18,617 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:20:18,732 DEBUG devpinoyLogger:17 - inside invite user test.
+18:20:20,274 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:20:20,274 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:20:20,275 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:20:20,275 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:20:20,276 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:20:20,324 DEBUG devpinoyLogger:17 - inside invite user test.
+18:20:21,763 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:20:21,763 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:20:21,764 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:20:21,764 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:20:21,765 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:20:22,659 DEBUG devpinoyLogger:171 - Test execution has been completed.
+18:21:14,526 DEBUG devpinoyLogger:69 - config file is loaded.
+18:21:18,969 DEBUG devpinoyLogger:97 - Edge is launched.
+18:21:24,521 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+18:21:26,794 DEBUG devpinoyLogger:30 - Inside login Test.
+18:21:31,579 DEBUG devpinoyLogger:38 - loging test executed.
+18:21:31,608 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:21:31,610 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:21:31,611 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:21:31,612 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:21:31,612 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:21:31,894 DEBUG devpinoyLogger:17 - inside invite user test.
+18:21:38,691 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:21:38,691 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:21:38,692 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:21:38,692 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:21:38,693 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:21:38,774 DEBUG devpinoyLogger:17 - inside invite user test.
+18:21:40,242 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:21:40,243 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:21:40,244 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:21:40,244 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:21:40,245 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:21:40,334 DEBUG devpinoyLogger:17 - inside invite user test.
+18:21:47,530 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:21:47,531 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:21:47,532 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:21:47,533 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:21:47,534 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:21:48,774 DEBUG devpinoyLogger:171 - Test execution has been completed.
+18:22:06,910 DEBUG devpinoyLogger:69 - config file is loaded.
+18:22:11,539 DEBUG devpinoyLogger:97 - Edge is launched.
+18:22:16,787 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+18:22:19,044 DEBUG devpinoyLogger:30 - Inside login Test.
+18:22:28,492 DEBUG devpinoyLogger:38 - loging test executed.
+18:22:28,519 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:22:28,521 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:22:28,522 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:22:28,523 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:22:28,523 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:22:28,846 DEBUG devpinoyLogger:17 - inside invite user test.
+18:22:35,457 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:22:35,459 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:22:35,461 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:22:35,463 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:22:35,464 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:22:35,577 DEBUG devpinoyLogger:17 - inside invite user test.
+18:30:21,384 DEBUG devpinoyLogger:69 - config file is loaded.
+18:30:26,011 DEBUG devpinoyLogger:97 - Edge is launched.
+18:30:31,321 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+18:30:33,511 DEBUG devpinoyLogger:30 - Inside login Test.
+18:30:38,259 DEBUG devpinoyLogger:38 - loging test executed.
+18:30:38,287 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:30:38,288 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:30:38,289 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:30:38,290 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:30:38,291 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:30:38,694 DEBUG devpinoyLogger:17 - inside invite user test.
+18:30:45,311 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:30:45,312 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:30:45,312 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:30:45,313 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:30:45,313 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:30:45,372 DEBUG devpinoyLogger:17 - inside invite user test.
+18:30:46,916 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:30:46,917 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:30:46,917 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:30:46,917 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:30:46,917 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:30:46,968 DEBUG devpinoyLogger:17 - inside invite user test.
+18:30:53,309 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+18:30:53,309 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+18:30:53,310 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:30:53,310 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:30:53,310 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:30:54,652 DEBUG devpinoyLogger:171 - Test execution has been completed.
+04:28:39,826 DEBUG devpinoyLogger:69 - config file is loaded.
+04:28:45,547 DEBUG devpinoyLogger:97 - Edge is launched.
+04:28:49,834 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+04:28:52,035 DEBUG devpinoyLogger:30 - Inside login Test.
+04:28:56,862 DEBUG devpinoyLogger:38 - loging test executed.
+04:28:56,893 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:28:56,894 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:28:56,895 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:28:56,896 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:28:56,896 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:28:57,174 DEBUG devpinoyLogger:17 - inside invite user test.
+04:29:03,607 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:29:03,608 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:29:03,609 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:29:03,609 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:29:03,609 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:29:03,660 DEBUG devpinoyLogger:17 - inside invite user test.
+04:29:05,092 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:29:05,093 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:29:05,093 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:29:05,094 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:29:05,094 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:29:05,139 DEBUG devpinoyLogger:17 - inside invite user test.
+04:29:06,482 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:29:06,482 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:29:06,483 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:29:06,483 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:29:06,483 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:29:07,434 DEBUG devpinoyLogger:171 - Test execution has been completed.
+04:29:25,169 DEBUG devpinoyLogger:69 - config file is loaded.
+04:29:29,618 DEBUG devpinoyLogger:97 - Edge is launched.
+04:29:33,831 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+04:29:36,016 DEBUG devpinoyLogger:30 - Inside login Test.
+04:29:40,423 DEBUG devpinoyLogger:38 - loging test executed.
+04:29:40,449 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:29:40,450 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:29:40,451 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:29:40,452 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:29:40,452 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:29:40,775 DEBUG devpinoyLogger:17 - inside invite user test.
+04:29:47,272 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:29:47,273 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:29:47,273 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:29:47,274 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:29:47,274 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:29:47,329 DEBUG devpinoyLogger:17 - inside invite user test.
+04:29:48,792 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:29:48,793 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:29:48,793 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:29:48,793 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:29:48,794 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:29:48,831 DEBUG devpinoyLogger:17 - inside invite user test.
+04:29:50,211 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:29:50,211 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:29:50,212 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:29:50,212 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:29:50,213 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:29:51,132 DEBUG devpinoyLogger:171 - Test execution has been completed.
+04:51:07,979 DEBUG devpinoyLogger:69 - config file is loaded.
+04:51:12,394 DEBUG devpinoyLogger:97 - Edge is launched.
+04:51:16,603 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+04:51:18,792 DEBUG devpinoyLogger:30 - Inside login Test.
+04:51:23,604 DEBUG devpinoyLogger:38 - loging test executed.
+04:51:23,631 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:51:23,632 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:51:23,633 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:51:23,635 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:51:23,635 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:51:23,941 DEBUG devpinoyLogger:17 - inside invite user test.
+04:51:30,445 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:51:30,446 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:51:30,447 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:51:30,447 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:51:30,448 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:51:30,511 DEBUG devpinoyLogger:17 - inside invite user test.
+04:51:31,924 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:51:31,924 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:51:31,925 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:51:31,925 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:51:31,925 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:51:31,960 DEBUG devpinoyLogger:17 - inside invite user test.
+04:51:33,414 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+04:51:33,415 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+04:51:33,416 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+04:51:33,417 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+04:51:33,417 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+04:51:34,511 DEBUG devpinoyLogger:171 - Test execution has been completed.
+15:53:20,795 DEBUG devpinoyLogger:69 - config file is loaded.
+15:53:25,656 DEBUG devpinoyLogger:97 - Edge is launched.
+15:53:35,054 DEBUG devpinoyLogger:107 - Navigated to :https://qa.leasecrunch.com/Account/Login
+15:53:37,246 DEBUG devpinoyLogger:30 - Inside login Test.
+15:53:56,237 DEBUG devpinoyLogger:38 - loging test executed.
+15:53:56,270 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15:53:56,272 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15:53:56,274 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:53:56,276 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:53:56,276 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:53:56,600 DEBUG devpinoyLogger:17 - inside invite user test.
+15:54:03,149 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15:54:03,150 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15:54:03,150 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:54:03,150 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:54:03,150 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:54:03,191 DEBUG devpinoyLogger:17 - inside invite user test.
+15:54:04,626 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15:54:04,627 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15:54:04,627 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:54:04,628 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:54:04,628 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:54:04,668 DEBUG devpinoyLogger:17 - inside invite user test.
+15:54:05,993 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+15:54:05,994 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+15:54:05,994 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+15:54:05,995 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+15:54:05,995 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+15:54:07,062 DEBUG devpinoyLogger:171 - Test execution has been completed.
+16:09:09,370 DEBUG devpinoyLogger:70 - config file is loaded.
+16:10:13,267 DEBUG devpinoyLogger:70 - config file is loaded.
+16:10:19,330 DEBUG devpinoyLogger:105 - Firefox is launched.
+16:10:30,356 DEBUG devpinoyLogger:121 - Navigated to :https://qa.leasecrunch.com/Account/Login
+16:10:30,425 DEBUG devpinoyLogger:30 - Inside login Test.
+16:10:37,430 DEBUG devpinoyLogger:38 - loging test executed.
+16:10:37,474 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:10:37,475 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:10:37,478 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:10:37,479 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:10:37,480 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:10:37,864 DEBUG devpinoyLogger:17 - inside invite user test.
+16:10:44,509 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:10:44,510 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:10:44,512 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:10:44,514 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:10:44,515 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:10:44,599 DEBUG devpinoyLogger:17 - inside invite user test.
+16:10:44,765 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:10:44,765 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:10:44,765 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:10:44,766 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:10:44,766 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:10:44,795 DEBUG devpinoyLogger:17 - inside invite user test.
+16:10:44,903 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:10:44,904 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:10:44,905 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:10:44,905 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:10:44,905 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:10:45,978 DEBUG devpinoyLogger:185 - Test execution has been completed.
+16:11:56,585 DEBUG devpinoyLogger:70 - config file is loaded.
+16:13:57,112 DEBUG devpinoyLogger:70 - config file is loaded.
+16:17:47,924 DEBUG devpinoyLogger:70 - config file is loaded.
+16:17:52,521 DEBUG devpinoyLogger:111 - Edge is launched.
+16:18:00,524 DEBUG devpinoyLogger:121 - Navigated to :https://qa.leasecrunch.com/Account/Login
+16:18:02,824 DEBUG devpinoyLogger:30 - Inside login Test.
+16:18:08,471 DEBUG devpinoyLogger:38 - loging test executed.
+16:18:08,519 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:18:08,521 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:18:08,523 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:18:08,525 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:18:08,526 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:18:09,163 DEBUG devpinoyLogger:17 - inside invite user test.
+16:18:15,590 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:18:15,592 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:18:15,593 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:18:15,595 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:18:15,596 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:18:15,676 DEBUG devpinoyLogger:17 - inside invite user test.
+16:18:17,063 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:18:17,063 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:18:17,064 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:18:17,064 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:18:17,064 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:18:17,093 DEBUG devpinoyLogger:17 - inside invite user test.
+16:18:18,427 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:18:18,428 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:18:18,428 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:18:18,429 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:18:18,429 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:18:19,230 DEBUG devpinoyLogger:185 - Test execution has been completed.
+16:59:03,225 DEBUG devpinoyLogger:70 - config file is loaded.
+16:59:07,952 DEBUG devpinoyLogger:111 - Edge is launched.
+16:59:20,825 DEBUG devpinoyLogger:121 - Navigated to :https://qa.leasecrunch.com/Account/Login
+16:59:23,024 DEBUG devpinoyLogger:30 - Inside login Test.
+16:59:31,107 DEBUG devpinoyLogger:38 - loging test executed.
+16:59:31,134 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:59:31,136 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:59:31,139 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:59:31,139 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:59:31,140 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:59:31,489 DEBUG devpinoyLogger:17 - inside invite user test.
+16:59:38,308 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:59:38,309 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:59:38,310 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:59:38,310 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:59:38,311 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:59:38,364 DEBUG devpinoyLogger:17 - inside invite user test.
+16:59:39,759 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:59:39,760 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:59:39,760 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:59:39,761 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:59:39,761 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:59:39,795 DEBUG devpinoyLogger:17 - inside invite user test.
+16:59:41,182 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+16:59:41,183 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+16:59:41,184 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+16:59:41,184 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+16:59:41,184 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+16:59:42,182 DEBUG devpinoyLogger:185 - Test execution has been completed.

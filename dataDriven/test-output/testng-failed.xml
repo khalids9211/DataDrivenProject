@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="com.leaseCrunch.listeners.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" name="Invite User Test(failed)">
+    <classes>
+      <class name="com.leaseCrunch.testcases.LcAdminInviteUser">
+        <methods>
+          <include name="inviteUsers" invocation-numbers="1 2"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.leaseCrunch.testcases.LcAdminInviteUser -->
+    </classes>
+  </test> <!-- Invite User Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
